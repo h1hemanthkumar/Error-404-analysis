@@ -1,5 +1,3 @@
-# Error-404-analysis
-
 ## Power BI Data Analysis Repository
 
 This repository contains the following files for data analysis and visualization:
